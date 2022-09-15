@@ -19,7 +19,6 @@ NOTE: Do not add a  main method to solution code.
 **************************************************************************************************************************************************************************
 Solution
 *********
-
 public class MegaBytesConverter {
  
  public static void printMegaBytesAndKiloBytes(int kiloBytes){
